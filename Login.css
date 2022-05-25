@@ -1,0 +1,46 @@
+ /* .Main_div
+{
+    background-image: url("./../Assests/loginimg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    opacity: 64%;
+    transform: scale(1.2);
+
+} */
+/*
+.content_card
+{
+    border-radius: 8px;
+} */
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+/*===========LoginPage*/
+.Main_div
+{
+    background-image: url('./../Assests/backimg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    position: absolute;
+    width: 100%;
+}
+ /*
+.body
+{
+    height: 100%;
+} */
+/* .Main_div
+{
+    height: 100vh;
+    background: url("./../Assests/loginimg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;    
+} */
+

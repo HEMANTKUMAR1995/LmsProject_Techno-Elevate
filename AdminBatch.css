@@ -1,0 +1,95 @@
+
+.navBar
+{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+/* .ant-layout-sider{
+    border: 1px solid red;
+    max-width: 65px !important;
+    min-width: 10px !important;
+    max-height:100vh;
+    min-height:89vh ;
+   margin-top: -210px; 
+   border-right: 1px solid grey;
+ }
+.ant-layout-has-sider
+{
+    max-height:100vh;
+    min-height:89vh ;
+}
+.ant-layout
+{
+    max-height:100vh;
+    min-height:89vh ;
+}
+.ant-layout-content
+{
+   
+    border: 1px solid green;
+    background-color: #aaa; 
+    line-height: 50px;
+    min-width: 50%;
+    max-width: 50%;
+}  
+
+.ant-layout-sider .ant-layout-sider-dark
+{
+    border: 1px solid yellow;
+    max-width: 500px;
+} */
+
+.BatchIcon:focus
+{
+    background-color: #075575;
+}
+.MentorIcon:focus
+{
+    background-color: #075575;
+}
+.RequestIcon:focus
+{
+    background-color: #075575;
+    color:white
+}
+.Rejectbutton{
+margin-left: 15px;
+border: solid 1px;
+background: #ffe9e9;
+color: red;
+border-radius: 3px;
+}
+.ApproveButton{
+margin-left: 15px;
+border: solid 1px;
+background: #d1f2d9;
+color: #468a53;
+border-radius: 3px;
+}
+
+.Rejectbutton:hover
+{
+    background-color:#ff0011;
+    color: aliceblue;
+}
+.ApproveButton:hover
+{
+background-color:#00e12d ;
+color: aliceblue;
+
+}
